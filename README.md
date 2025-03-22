@@ -1,4 +1,7 @@
-# BCKL: Bayesian Complementary Kernelized Learning
+# Bayesian Complementary Kernelized Learning
+
+## BCKL: Bayesian Complementary Kernelized Learning for Multidimensional Spatiotemporal Data
+
 [[paper](https://arxiv.org/abs/2208.09978)]
 ```
 @article{lei2022bckl,
